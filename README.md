@@ -51,4 +51,4 @@ Choose the type of samples from left and press the play buttons on the right.
 ___
 ### Create enverope
 ADSR in Sonic Pi
-![capture4](imgs/adsr.jpg)
+![capture4](imgs/adsr.jpg | width=400)
