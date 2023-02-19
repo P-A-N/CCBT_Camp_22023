@@ -11,7 +11,7 @@
 press run to play ( ⌘ + r )  
 press stop to stop ( ⌘ + s )  
 
----
+--
 
 <br/>
 
@@ -49,7 +49,7 @@ Find your favorites from the list.
 
 <img src = "imgs/synths.jpg" width=500 border="1" />
 
----
+--
 <br>
 
 ## Play sample
@@ -63,7 +63,7 @@ Choose the type of samples from left and press the play buttons on the right.
 
 <img src = "imgs/samples.jpg" width=500 border="1" />
 
----
+--
 <br>
 
 ## Create enverope
