@@ -34,8 +34,8 @@ OSCErrorCode error;
 
 // WiFi
 int address = 0;
-String ssid = "CatCatCat_Extreme_2F";
-String password = "gogohorristic";
+String ssid = "ccbt_gakki_wifi";
+String password = "deaihatotuzen";
 String local_ip_str = "10.0.0.100";
 String gateway_ip_str = "10.0.0.1";
 String out_ip_str = "10.0.0.10";
